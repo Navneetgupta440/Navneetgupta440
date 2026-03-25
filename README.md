@@ -2,7 +2,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ng440.netlify.app/)
 
 # 💫 About Me:
-👋 Hi there, I’m Navneet Gupta<br><br>🎓 Computer Science & Engineering undergraduate<br>💻 Full-Stack Developer (MERN) | Java Developer<br>📊 Data Analytics Enthusiast<br>📚 Strong foundation in Data Structures & Algorithms<br><br>🚀 I enjoy building scalable web applications, developing Java-based software solutions, and analyzing data to derive meaningful insights. I believe in writing clean, efficient code and learning through real-world projects.<br><br>🌱 Currently improving my skills in backend development, Java frameworks, and UI/UX based system design fundamentals.<br>🤝 Open to works, software development roles, and collaborative learning opportunities.
+👋 Hi there, I’m Navneet Gupta<br><br>🎓 Computer Science & Engineering undergraduate<br>💻 Full-Stack Developer (MERN) | Java Developer<br>📊 Data Analytics <br>📚 Strong foundation in Data Structures & Algorithms<br><br>🚀 I enjoy building scalable web applications, developing Java-based software solutions, and analyzing data to derive meaningful insights. I believe in writing clean, efficient code and learning through real-world projects.<br><br>🌱 Currently improving my skills in backend development, Java frameworks, and UI/UX based system design fundamentals.<br>🤝 Open to works, software development roles, and collaborative learning opportunities.
 
 
 ## 🌐 Socials:
