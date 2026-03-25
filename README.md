@@ -22,9 +22,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### ✍️ Netlify
-![]_(https://app.netlify.com/teams/navneetgupta440/projects)_
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Navneetgupta440&icon=0&color=0)](https://visitcount.itsvg.in)
 
