@@ -17,10 +17,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Navneetgupta440?style=for-the-badge&logo=github)](https://github.com/Navneetgupta440)
 
 ---
-### Profile Stats & Trophies
-Visit my [GitHub Trophy Wall](https://github-profile-trophy.vercel.app/?username=Navneetgupta440&theme=radical)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navneetgupta440&theme=dark)](https://github.com/Navneetgupta440)
+## 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=Navneetgupta440&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
