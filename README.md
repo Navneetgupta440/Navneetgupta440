@@ -17,15 +17,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Navneetgupta440?style=for-the-badge&logo=github)](https://github.com/Navneetgupta440)
 
 ---
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=Navneetgupta440&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 💡 Developer's Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Navneetgupta440&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
